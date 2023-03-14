@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { Link, useParams } from "react-router-dom";
-import { clearPreviousUser, getSelectedUserAsync } from "./slice";
+import { clearPreviousUser, getSelectedUserAsync } from "./components/slice";
 
 const UserDetails = () => {
   const { id } = useParams();

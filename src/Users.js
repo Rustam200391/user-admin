@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { Link } from "react-router-dom";
-import { getUsersAsync } from "./slice";
+import { getUsersAsync } from "./components/slice";
 
 const Users = () => {
   const dispatch = useDispatch();
