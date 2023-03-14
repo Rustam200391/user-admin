@@ -1,4 +1,7 @@
-Test application for displaying a list of users taken from the api
+## Test application for displaying a list of users taken from the api
+
+The application uses the react-redux library and react-router-dom and react-dom packages.
+
 
 # Getting Started with Create React App
 
