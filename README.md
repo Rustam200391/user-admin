@@ -1,6 +1,8 @@
 ## Test application for displaying a list of users taken from the api
 
 The application uses the react-redux library and react-router-dom and react-dom packages.
+To install the library, use the npm install react-redux command.
+To install routers, use the npm i react-router-dom command
 
 
 # Getting Started with Create React App
