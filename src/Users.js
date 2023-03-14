@@ -16,7 +16,7 @@ const Users = () => {
     <div style={{ display: "flex" }}>
       <div style={{ flex: "6" }}>
         <Link to="/">Home</Link>
-        <div style={{ padding: "1em" }}>Hello Users</div>
+        <div style={{ padding: "1em",color:"#8F7244" } }>Welcome Users</div>
         {fackeUsers &&
           fackeUsers.map((user) => {
             return (
