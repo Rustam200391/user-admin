@@ -26,4 +26,5 @@ const api = {
   Albums,
   Posts
 };
+
 export default api;
